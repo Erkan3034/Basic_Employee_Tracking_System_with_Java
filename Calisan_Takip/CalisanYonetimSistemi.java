@@ -34,9 +34,7 @@ public class CalisanYonetimSistemi { // Yönetim Sistemi.
 			System.out.println("Çalışan başarıyla eklendi!");
 
 		} catch (Exception hataMesajı) {
-			System.out.println("Hata: Geçersiz girdi. Çalışan eklenemedi. -> " + hataMesajı);// Detaylı bilgi vermek
-																								// için hata mesajını
-																								// bastırıyoıruz.
+			System.out.println("Hata: Geçersiz girdi. Çalışan eklenemedi. -> " + hataMesajı);// Detaylı bilgi vermek için hata mesajını bastırıyoıruz.
 		}
 	}
 
