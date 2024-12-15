@@ -1,0 +1,10 @@
+1001,Ahmet,Yılmaz,Muhasebe,8500.50,Muhasebe Müdürü
+1002,Aylin,Demir,İnsan Kaynakları,7200.00,İK Uzmanı
+1003,Mehmet,Celik,Satış,6700.75,Satış Temsilcisi
+1004,Selin,Kara,IT,9500.25,Yazılım Geliştirici
+1005,Ali,Güneş,Satın Alma,7000.00,Satın Alma Uzmanı
+1006,Fatma,Aksoy,IT,12000.00,Sistem Yöneticisi
+1007,Zeynep,Cetin,Pazarlama,6800.00,Reklam Uzmanı
+1008,Burak,Erdoğan,Üretim,7500.50,Üretim Şefi
+1009,Emre,Turan,AR-GE,9800.00,AR-GE Mühendisi
+1010,Elif,Sahin,Lojistik,6300.00,Lojistik Uzmanı
